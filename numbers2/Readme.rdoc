@@ -1,0 +1,4 @@
+== Roman Numerals
+this is converting numbers to roman numberals. it's strictly for practice,
+though, just to continue building muscle memory. that is all. you may
+consume beer now.
